@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-21-orange) ![IDE](https://img.shields.io/badge/IDE-Eclipse-blue) ![Day](https://img.shields.io/badge/Day-2%2F100-success)
 
-> Day 2 of my 100 Java Projects Challenge towards 9 LPA!
+> Project 2 of 100 by RaviTeja | Built with JDK 21, OOP, Maven, Streams & Collections
 
 A console-based CRUD application to manage students using Java Collections, Streams and Custom Exceptions.
 
