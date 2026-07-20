@@ -24,6 +24,7 @@ A console-based CRUD application to manage students using Java Collections, Stre
 git clone https://github.com/raviteja-dev950/02-student-management.git
 cd 02-student-management
 # Open in Eclipse -> Run Main.java
+```
 
 ### 📸 Demo
 ![Demo 1](screenshots/demos.png)
